@@ -84,16 +84,6 @@ I'm a passionate **Data Analyst** specializing in transforming raw data into act
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FarisDataAnalysts&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FarisDataAnalysts&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ---
 
 ## 🎓 Expertise Areas
